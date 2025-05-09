@@ -1,0 +1,246 @@
+C:\Users\risha\Downloads\BookStoreApplication\obj\Debug\BookStoreApplication.csproj.AssemblyReference.cache
+C:\Users\risha\Downloads\BookStoreApplication\obj\Debug\BookStoreApplication.AdministratorUC.UC_Adduser.resources
+C:\Users\risha\Downloads\BookStoreApplication\obj\Debug\BookStoreApplication.AdministratorUC.UC_Dashbord.resources
+C:\Users\risha\Downloads\BookStoreApplication\obj\Debug\BookStoreApplication.AdministratorUC.UC_ViewUser.resources
+C:\Users\risha\Downloads\BookStoreApplication\obj\Debug\BookStoreApplication.AdminPanel.resources
+C:\Users\risha\Downloads\BookStoreApplication\obj\Debug\BookStoreApplication.EmployeePanel.resources
+C:\Users\risha\Downloads\BookStoreApplication\obj\Debug\BookStoreApplication.EmployeeUC.UC_AddBooks.resources
+C:\Users\risha\Downloads\BookStoreApplication\obj\Debug\BookStoreApplication.EmployeeUC.UC_ModifyBooks.resources
+C:\Users\risha\Downloads\BookStoreApplication\obj\Debug\BookStoreApplication.Lginform.resources
+C:\Users\risha\Downloads\BookStoreApplication\obj\Debug\BookStoreApplication.Properties.Resources.resources
+C:\Users\risha\Downloads\BookStoreApplication\obj\Debug\BookStoreApplication.registrationform.resources
+C:\Users\risha\Downloads\BookStoreApplication\obj\Debug\BookStoreApplication.userInterface.resources
+C:\Users\risha\Downloads\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.UC_Booklist.resources
+C:\Users\risha\Downloads\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.UC_New.resources
+C:\Users\risha\Downloads\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.UC_Trending.resources
+C:\Users\risha\Downloads\BookStoreApplication\obj\Debug\BookStoreApplication.csproj.GenerateResource.cache
+C:\Users\risha\Downloads\BookStoreApplication\obj\Debug\BookStoreApplication.csproj.CoreCompileInputs.cache
+C:\Users\risha\Downloads\BookStoreApplication\obj\Debug\BookStoreApplication.Error.resources
+C:\Users\risha\Downloads\BookStoreApplication\bin\Debug\BookStoreApplication.exe
+C:\Users\risha\Downloads\BookStoreApplication\bin\Debug\BookStoreApplication.pdb
+C:\Users\risha\Downloads\BookStoreApplication\bin\Debug\Guna.UI.dll
+C:\Users\risha\Downloads\BookStoreApplication\bin\Debug\Guna.UI2.dll
+C:\Users\risha\Downloads\BookStoreApplication\obj\Debug\BookStoreApplication.csproj.CopyComplete
+C:\Users\risha\Downloads\BookStoreApplication\obj\Debug\BookStoreApplication.exe
+C:\Users\risha\Downloads\BookStoreApplication\obj\Debug\BookStoreApplication.pdb
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.csproj.AssemblyReference.cache
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.exe
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.pdb
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\bin\Debug\BookStoreApplication.exe
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\bin\Debug\BookStoreApplication.pdb
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\bin\Debug\Guna.UI2.dll
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.AdministratorUC.UC_Adduser.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.AdministratorUC.UC_Dashbord.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.AdministratorUC.UC_ViewUser.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.AdminPanel.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.EmployeePanel.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.EmployeeUC.UC_AddBooks.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.EmployeeUC.UC_ModifyBooks.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.Error.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.Lginform.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.Properties.Resources.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.registrationform.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.userInterface.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.UC_Booklist.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.UC_New.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.UC_Trending.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.csproj.GenerateResource.cache
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.csproj.CoreCompileInputs.cache
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.csproj.CopyComplete
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.book_noise.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.corossion.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.GreatGatsby.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.king.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.oporajita.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.Palamoucs.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.research.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.sanjak.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.tukro.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.arozali.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.bela.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.decepsion.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.niyotirhat.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.portaborton.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.sajid.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.silent.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.turn.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.animan.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.Bristy.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.deyal.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.Emotion.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.foreign.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.sad.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.solidar.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.sophie.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.tomake.resources
+E:\BOOK STORE PROJECT\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.topu.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\bin\Debug\BookStoreApplication.exe
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\bin\Debug\BookStoreApplication.pdb
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\bin\Debug\Guna.UI2.dll
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.csproj.AssemblyReference.cache
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.csproj.SuggestedBindingRedirects.cache
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.AdministratorUC.UC_Adduser.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.AdministratorUC.UC_Dashbord.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.AdministratorUC.UC_ViewUser.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.AdminPanel.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.EmployeePanel.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.EmployeeUC.UC_AddBooks.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.EmployeeUC.UC_ModifyBooks.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.Error.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.Lginform.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.Properties.Resources.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.registrationform.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.userInterface.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.animan.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.arozali.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.bela.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.book_noise.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.Bristy.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.corossion.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.decepsion.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.deyal.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.Emotion.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.foreign.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.GreatGatsby.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.king.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.niyotirhat.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.oporajita.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.Palamoucs.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.portaborton.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.research.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.sad.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.sajid.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.sanjak.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.silent.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.solidar.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.sophie.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.tomake.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.topu.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.tukro.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.turn.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.UC_Booklist.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.UC_New.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.UC_Trending.resources
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.csproj.GenerateResource.cache
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.csproj.CoreCompileInputs.cache
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.csproj.CopyComplete
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.exe
+F:\Soumik\BookStoreApplication (2) +\BookStoreApplication (3) 1\BookStoreApplication\obj\Debug\BookStoreApplication.pdb
+E:\BOOK Store\BookStoreApplication\BookStoreApplication\bin\Debug\BookStoreApplication.exe
+E:\BOOK Store\BookStoreApplication\BookStoreApplication\bin\Debug\BookStoreApplication.pdb
+E:\BOOK Store\BookStoreApplication\BookStoreApplication\bin\Debug\Guna.UI2.dll
+E:\BOOK Store\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.csproj.AssemblyReference.cache
+E:\BOOK Store\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.AdministratorUC.UC_Adduser.resources
+E:\BOOK Store\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.AdministratorUC.UC_Dashbord.resources
+E:\BOOK Store\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.AdministratorUC.UC_ViewUser.resources
+E:\BOOK Store\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.AdminPanel.resources
+E:\BOOK Store\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.EmployeePanel.resources
+E:\BOOK Store\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.EmployeeUC.UC_AddBooks.resources
+E:\BOOK Store\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.EmployeeUC.UC_ModifyBooks.resources
+E:\BOOK Store\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.Error.resources
+E:\BOOK Store\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.Lginform.resources
+E:\BOOK Store\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.Properties.Resources.resources
+E:\BOOK Store\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.registrationform.resources
+E:\BOOK Store\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.UC_Booklist.resources
+E:\BOOK Store\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.UC_New.resources
+E:\BOOK Store\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.csproj.GenerateResource.cache
+E:\BOOK Store\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.csproj.CoreCompileInputs.cache
+E:\BOOK Store\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.csproj.CopyComplete
+E:\BOOK Store\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.exe
+E:\BOOK Store\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.pdb
+E:\BOOK Store\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.bookviewdetails.resources
+F:\Soumik\BookStoreApplication (new)\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.csproj.AssemblyReference.cache
+F:\Soumik\BookStoreApplication (new)\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.csproj.SuggestedBindingRedirects.cache
+F:\Soumik\BookStoreApplication (new)\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.exe
+F:\Soumik\BookStoreApplication (new)\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.pdb
+F:\Soumik\BookStoreApplication (new)\BookStoreApplication\BookStoreApplication\bin\Debug\BookStoreApplication.exe
+F:\Soumik\BookStoreApplication (new)\BookStoreApplication\BookStoreApplication\bin\Debug\BookStoreApplication.pdb
+F:\Soumik\BookStoreApplication (new)\BookStoreApplication\BookStoreApplication\bin\Debug\Guna.UI2.dll
+F:\Soumik\BookStoreApplication (new)\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.AdministratorUC.UC_Adduser.resources
+F:\Soumik\BookStoreApplication (new)\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.AdministratorUC.UC_Dashbord.resources
+F:\Soumik\BookStoreApplication (new)\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.AdministratorUC.UC_ViewUser.resources
+F:\Soumik\BookStoreApplication (new)\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.AdminPanel.resources
+F:\Soumik\BookStoreApplication (new)\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.EmployeePanel.resources
+F:\Soumik\BookStoreApplication (new)\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.EmployeeUC.UC_AddBooks.resources
+F:\Soumik\BookStoreApplication (new)\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.EmployeeUC.UC_ModifyBooks.resources
+F:\Soumik\BookStoreApplication (new)\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.Error.resources
+F:\Soumik\BookStoreApplication (new)\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.Lginform.resources
+F:\Soumik\BookStoreApplication (new)\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.Properties.Resources.resources
+F:\Soumik\BookStoreApplication (new)\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.registrationform.resources
+F:\Soumik\BookStoreApplication (new)\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.bookviewdetails.resources
+F:\Soumik\BookStoreApplication (new)\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.UC_Booklist.resources
+F:\Soumik\BookStoreApplication (new)\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.UC_New.resources
+F:\Soumik\BookStoreApplication (new)\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.csproj.GenerateResource.cache
+F:\Soumik\BookStoreApplication (new)\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.csproj.CoreCompileInputs.cache
+F:\Soumik\BookStoreApplication (new)\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.csproj.CopyComplete
+E:\c# project\BookStoreApplication 69\BookStoreApplication\bin\Debug\BookStoreApplication.exe
+E:\c# project\BookStoreApplication 69\BookStoreApplication\bin\Debug\BookStoreApplication.pdb
+E:\c# project\BookStoreApplication 69\BookStoreApplication\bin\Debug\Guna.UI2.dll
+E:\c# project\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.csproj.AssemblyReference.cache
+E:\c# project\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.AdministratorUC.UC_Adduser.resources
+E:\c# project\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.AdministratorUC.UC_Dashbord.resources
+E:\c# project\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.AdministratorUC.UC_ViewUser.resources
+E:\c# project\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.AdminPanel.resources
+E:\c# project\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.EmployeePanel.resources
+E:\c# project\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.EmployeeUC.UC_AddBooks.resources
+E:\c# project\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.EmployeeUC.UC_ModifyBooks.resources
+E:\c# project\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.Error.resources
+E:\c# project\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.Lginform.resources
+E:\c# project\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.Properties.Resources.resources
+E:\c# project\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.registrationform.resources
+E:\c# project\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.bookviewdetails.resources
+E:\c# project\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.UC_Booklist.resources
+E:\c# project\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.UC_New.resources
+E:\c# project\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.csproj.GenerateResource.cache
+E:\c# project\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.csproj.CoreCompileInputs.cache
+E:\c# project\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.csproj.CopyComplete
+E:\c# project\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.exe
+E:\c# project\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.pdb
+E:\c# project\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.Addtocart.resources
+F:\Soumik\BookStoreApplication 69 new\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.csproj.AssemblyReference.cache
+F:\Soumik\BookStoreApplication 69 new\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.csproj.SuggestedBindingRedirects.cache
+F:\Soumik\BookStoreApplication 69 new\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.exe
+F:\Soumik\BookStoreApplication 69 new\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.pdb
+F:\Soumik\BookStoreApplication 69 new\BookStoreApplication 69\BookStoreApplication\bin\Debug\BookStoreApplication.exe
+F:\Soumik\BookStoreApplication 69 new\BookStoreApplication 69\BookStoreApplication\bin\Debug\BookStoreApplication.pdb
+F:\Soumik\BookStoreApplication 69 new\BookStoreApplication 69\BookStoreApplication\bin\Debug\Guna.UI2.dll
+F:\Soumik\BookStoreApplication 69 new\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.AdministratorUC.UC_Adduser.resources
+F:\Soumik\BookStoreApplication 69 new\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.AdministratorUC.UC_Dashbord.resources
+F:\Soumik\BookStoreApplication 69 new\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.AdministratorUC.UC_ViewUser.resources
+F:\Soumik\BookStoreApplication 69 new\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.AdminPanel.resources
+F:\Soumik\BookStoreApplication 69 new\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.EmployeePanel.resources
+F:\Soumik\BookStoreApplication 69 new\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.EmployeeUC.UC_AddBooks.resources
+F:\Soumik\BookStoreApplication 69 new\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.EmployeeUC.UC_ModifyBooks.resources
+F:\Soumik\BookStoreApplication 69 new\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.Error.resources
+F:\Soumik\BookStoreApplication 69 new\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.Lginform.resources
+F:\Soumik\BookStoreApplication 69 new\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.Properties.Resources.resources
+F:\Soumik\BookStoreApplication 69 new\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.registrationform.resources
+F:\Soumik\BookStoreApplication 69 new\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.bookviewdetails.resources
+F:\Soumik\BookStoreApplication 69 new\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.UC_New.resources
+F:\Soumik\BookStoreApplication 69 new\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.csproj.GenerateResource.cache
+F:\Soumik\BookStoreApplication 69 new\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.csproj.CoreCompileInputs.cache
+F:\Soumik\BookStoreApplication 69 new\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.csproj.CopyComplete
+F:\Soumik\BookStoreApplication 69 new\BookStoreApplication 69\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.AddToCart2.resources
+E:\Final c# project\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.csproj.AssemblyReference.cache
+E:\Final c# project\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.exe
+E:\Final c# project\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.pdb
+E:\Final c# project\BookStoreApplication\BookStoreApplication\bin\Debug\BookStoreApplication.exe
+E:\Final c# project\BookStoreApplication\BookStoreApplication\bin\Debug\BookStoreApplication.pdb
+E:\Final c# project\BookStoreApplication\BookStoreApplication\bin\Debug\Guna.UI2.dll
+E:\Final c# project\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.AdministratorUC.UC_Adduser.resources
+E:\Final c# project\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.AdministratorUC.UC_Dashbord.resources
+E:\Final c# project\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.AdministratorUC.UC_ViewUser.resources
+E:\Final c# project\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.AdminPanel.resources
+E:\Final c# project\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.EmployeePanel.resources
+E:\Final c# project\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.EmployeeUC.UC_AddBooks.resources
+E:\Final c# project\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.EmployeeUC.UC_ModifyBooks.resources
+E:\Final c# project\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.Error.resources
+E:\Final c# project\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.Lginform.resources
+E:\Final c# project\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.Properties.Resources.resources
+E:\Final c# project\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.registrationform.resources
+E:\Final c# project\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.AddToCart2.resources
+E:\Final c# project\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.bookviewdetails.resources
+E:\Final c# project\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.UserUC.UC_New.resources
+E:\Final c# project\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.csproj.GenerateResource.cache
+E:\Final c# project\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.csproj.CoreCompileInputs.cache
+E:\Final c# project\BookStoreApplication\BookStoreApplication\obj\Debug\BookStoreApplication.csproj.CopyComplete
